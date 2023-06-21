@@ -1,0 +1,38 @@
+nav{
+  background-color:#596e79;
+    color:white;
+    height:45px;
+    font-size:27px;
+    display:flex;
+    align-items:center;
+    padding: 0 10px;
+    font-family: 'Libre Baskerville', serif;
+}
+
+.calculator {
+    max-width: 300px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  button {
+    width: 70px;
+    height: 50px;
+    margin: 5px;
+    font-size: 20px;
+    color: rgb(27, 104, 139);
+    background-color: #dfd3c3;
+    font-family: 'Libre Baskerville', serif;
+  }
+  
+  #result{
+    border-radius: 10px ;
+    background-color: #f0ece2;
+    margin: 18px -8px  ;
+  }
